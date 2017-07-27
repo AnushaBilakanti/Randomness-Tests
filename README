@@ -1,0 +1,22 @@
+
+Commands to run - 
+    
+hw7 rc4 -p=pphrase [-l=len]
+hw7 x1 [file]
+hw7 x2 [file]
+hw7 x3 [file]
+hw7 x4 [file]
+hw7 x5 -d=dval [file]
+
+
+Files- 
+
+main.c - main file with command line parsing
+rc4.c - rc4 algorithm
+x1.c - x1 functionality
+x2.c - x2 functionality
+x3.c - x3 functionality
+x4.c - x4 functionality
+x5.c - x5 functionality
+functions.h - header file.
+Makefile - used for make.
